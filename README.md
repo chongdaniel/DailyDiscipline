@@ -1,5 +1,5 @@
 # DailyDiscipline
 
-Authors: chongdaniel and Natem135
+Authors: chongdaniel and NateM135
 
 A simple discord bot to help users develop good habits.
